@@ -1,52 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Practice Test</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body class="bg-gray-100 min-h-screen flex flex-col">
 
-<header class="bg-indigo-700 text-white px-8 py-4 flex justify-between">
-  <h1 class="text-xl font-semibold" id="examName">Loading...</h1>
-  <a href="dashboard.html" class="bg-white text-indigo-700 px-4 py-2 rounded">Dashboard</a>
+<!-- HEADER -->
+<header class="bg-indigo-700 text-white px-3 sm:px-6 lg:px-10 py-2.5 sm:py-3 lg:py-4 flex items-center justify-between shadow-md sticky top-0 z-50">
+
+  <!-- Title -->
+  <h1 id="examName"
+      class="font-semibold truncate flex-1 min-w-0
+             text-sm sm:text-lg lg:text-xl">
+    Practice Test
+  </h1>
+
+  <!-- Dashboard Button (No Stretch) -->
+  <a href="dashboard.html"
+     class="ml-3 sm:ml-5 bg-white text-indigo-700 font-semibold rounded-lg
+            px-3 sm:px-4 lg:px-5
+            py-1.5 sm:py-2 lg:py-2.5
+            text-[11px] sm:text-sm lg:text-base
+            whitespace-nowrap inline-flex items-center justify-center
+            shadow-sm active:scale-95 transition">
+    Dashboard
+  </a>
+
 </header>
 
-<div class="flex flex-1 p-8 gap-6">
+<!-- MAIN LAYOUT -->
+<div class="flex flex-1 flex-col lg:flex-row p-3 sm:p-5 lg:p-8 gap-4 lg:gap-6">
 
-  <!-- Question Palette -->
-  <aside class="w-56 bg-white rounded-xl shadow-lg p-4 overflow-y-auto">
-    <h3 class="font-semibold mb-3">Questions</h3>
-    <div id="questionPalette" class="grid grid-cols-5 gap-2"></div>
+  <!-- QUESTION PALETTE -->
+  <aside class="lg:w-64 w-full bg-white rounded-xl shadow-lg p-3 sm:p-4 overflow-y-auto max-h-36 sm:max-h-44 lg:max-h-full">
+    <h3 class="font-semibold mb-2 sm:mb-3 text-sm sm:text-base text-center lg:text-left">Questions</h3>
+    <div id="questionPalette" class="grid grid-cols-6 sm:grid-cols-8 lg:grid-cols-5 gap-2 sm:gap-3"></div>
   </aside>
 
-  <!-- Question Area -->
-  <div class="flex-1 bg-white rounded-xl shadow-lg p-10">
+  <!-- QUESTION AREA -->
+  <main class="flex-1 bg-white rounded-xl shadow-lg p-4 sm:p-6 lg:p-10 flex flex-col">
 
-    <div class="mb-6">
-      <span class="bg-indigo-600 text-white px-3 py-1 rounded text-sm font-semibold">Question</span>
-      <h2 id="questionText" class="mt-3 text-lg font-medium whitespace-pre-line"></h2>
+    <!-- QUESTION TEXT -->
+    <div class="mb-4 sm:mb-6">
+      <span class="bg-indigo-600 text-white px-2.5 sm:px-3 py-1 rounded text-[10px] sm:text-xs lg:text-sm font-semibold">
+        Question
+      </span>
+      <h2 id="questionText" class="mt-2 sm:mt-3 text-sm sm:text-base lg:text-lg font-medium whitespace-pre-line leading-relaxed"></h2>
     </div>
 
-    <div id="optionsBox" class="space-y-4"></div>
+    <!-- OPTIONS -->
+    <div id="optionsBox" class="space-y-2 sm:space-y-3 lg:space-y-4"></div>
 
-    <!-- Explanation -->
-    <div id="explanationBox" class="hidden mt-8 bg-indigo-50 border-l-4 border-indigo-500 p-5 rounded">
-      <div class="font-semibold text-indigo-700 mb-3">Explanation</div>
-      <ul id="explanationList" class="list-disc pl-5 space-y-2 text-sm text-gray-700"></ul>
+    <!-- EXPLANATION -->
+    <div id="explanationBox" class="hidden mt-6 sm:mt-8 bg-indigo-50 border-l-4 border-indigo-500 p-3 sm:p-4 rounded">
+      <div class="font-semibold text-indigo-700 mb-2 text-sm sm:text-base">Explanation</div>
+      <ul id="explanationList" class="list-disc pl-5 space-y-1 text-xs sm:text-sm text-gray-700"></ul>
     </div>
 
-    <div class="flex justify-between mt-10">
-      <button id="prevBtn" class="bg-gray-400 text-white px-6 py-2 rounded">Previous</button>
-      <button id="nextBtn" class="bg-indigo-700 text-white px-6 py-2 rounded">Next</button>
-      <button id="submitBtn" class="hidden bg-green-600 text-white px-6 py-2 rounded">Submit</button>
-    </div>
+    <!-- NAVIGATION BUTTONS -->
+ <!-- NAVIGATION BUTTONS -->
+<div class="mt-auto pt-5 sm:pt-6 flex flex-wrap justify-center sm:justify-end gap-2 sm:gap-3 sticky bottom-0 bg-white">
 
-  </div>
+  <button id="prevBtn"
+    class="bg-gray-400 hover:bg-gray-500 text-white
+           px-4 sm:px-5 lg:px-6
+           py-2 sm:py-2.5 lg:py-3
+           rounded-lg text-xs sm:text-sm lg:text-base font-medium
+           active:scale-[0.98] transition whitespace-nowrap">
+    Previous
+  </button>
 
+  <button id="nextBtn"
+    class="bg-indigo-700 hover:bg-indigo-800 text-white
+           px-4 sm:px-5 lg:px-6
+           py-2 sm:py-2.5 lg:py-3
+           rounded-lg text-xs sm:text-sm lg:text-base font-medium
+           active:scale-[0.98] transition whitespace-nowrap">
+    Next
+  </button>
+
+  <button id="submitBtn"
+    class="hidden bg-green-600 hover:bg-green-700 text-white
+           px-4 sm:px-5 lg:px-6
+           py-2 sm:py-2.5 lg:py-3
+           rounded-lg text-xs sm:text-sm lg:text-base font-medium
+           active:scale-[0.98] transition whitespace-nowrap">
+    Submit
+  </button>
+
+</div>
+
+  </main>
 </div>
 
 <script src="quiz.js"></script>
 </body>
 </html>
-
