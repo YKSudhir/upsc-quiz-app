@@ -1,0 +1,90 @@
+{
+  "exam": "UPSC CSE Prelims – History & Culture",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which one of the following statements is correct?",
+      "options": {
+        "a": "Lomas Rishi Cave is part of the Ajanta complex.",
+        "b": "Udayagiri Caves are located near Vidisha in Madhya Pradesh.",
+        "c": "Barabar Caves are located near Bhubaneshwar.",
+        "d": "Elephanta Caves are situated on the banks of Ganga River."
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Lomas Rishi Cave is part of the Barabar Caves in Bihar, famous for their granite rock-cut architecture and the characteristic arched doorway. Ajanta Caves are Buddhist rock-cut caves in Maharashtra. Hence, option (a) is not correct.",
+        "Udayagiri Caves are rock-cut caves near Vidisha, Madhya Pradesh. They belong to the Gupta period (4th–5th century CE) and are famous for sculptures of Hindu deities, including Vishnu in Varaha form. Hence, option (b) is correct.",
+        "The Barabar Hill Caves are the oldest surviving rock-cut caves in India, dating from the Maurya Empire, some with Ashokan inscriptions, located in the Makhdumpur region of Jehanabad district, Bihar, India, 24 km north of Gaya. Hence, option (c) is not correct.",
+        "Elephanta Caves are on Elephanta Island near Mumbai, in the Mumbai Harbour (Maharashtra), not on the Ganga River. They are famous for Shaivite sculptures, especially Trimurti Shiva. Hence, option (d) is not correct."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "The \"Kashi Declaration\", recently in news, is related to:",
+      "options": {
+        "a": "Promotion of India’s cultural heritage through G20 cultural track",
+        "b": "Setting a roadmap for the nationwide De-Addiction Movement",
+        "c": "Framing policies for sustainable urban development in Varanasi",
+        "d": "Strengthening international Buddhist tourism circuits"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Context: The three-day Youth Spiritual Summit on the topic of Drug-free Youth for Developed India concluded with the Kashi Declaration.",
+        "The Kashi Declaration lays out a five-year roadmap for a nationwide de-addiction campaign. It acknowledges substance abuse as a public health and societal issue, not just a criminal offense. The declaration commits to developing coordinated policies involving various ministries and youth organizations.",
+        "A Joint National Committee will be formed to monitor progress, along with annual reports and a national platform to link individuals with support services.",
+        "The initiative stresses the integration of spiritual, educational, and cultural tools to address drug abuse at the community level. Youth engagement in value-based programs, community service, and digital outreach will be scaled up across regions. Varanasi (Kashi), where the declaration was adopted, is one of the oldest living cities and a spiritual hub in India.",
+        "Hence, option (b) is the correct answer"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Consider the following pairs:\nAuthors : Literary work\n1. Asvaghosa : Buddhacharita\n2. Vasumitra : Milindapanho\n3. Bilhana : Devichandragupta\nHow many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Asvaghosa (1st–2nd century CE) was a Buddhist philosopher-poet who wrote Buddhacharita, a Sanskrit mahākāvya narrating the life of the Buddha. Hence, pair 1 is correctly matched.",
+        "Milindapañho (Questions of King Milinda) is attributed to Nāgasena, not Vasumitra. Vasumitra (2nd century CE, Kushana period) presided over the Fourth Buddhist Council and is credited with Samayabhedoparacanacakra, a work on Buddhist sects. Hence, pair 2 is not correctly matched.",
+        "Bilhaṇa, a Kashmiri poet (11th century CE), authored the drama Devichandraguptam. The play narrates an episode from the early Gupta period involving Ramagupta, Chandragupta II, and Queen Dhruvadevi. Hence, pair 3 is correctly matched."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Consider the following sattements about the Suharwardi silsila:\n1. Saint Hamid-ud-Din Nagori belonged to the Suhrawardi order.\n2. Suharwardi saints believed in leading a life of poverty.\n3. They did not accept the State service.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1, 2 and 3",
+        "d": "1 and 3 only"
+      },
+      "correct_answer": "A",
+      "explanation": [
+        "The Suhrawardi order, initially founded in Baghdad, gradually expanded its influence across multiple regions of the Islamic world, most notably in Persia (Iran) and the Indian subcontinent.",
+        "The Suhrawardi order is an orthodox Sunni Sufi order, founded in 12th-century Baghdad by Abu al-Najib al-Suhrawardi, a Persian Sufi who died in 1168 CE. The Suharwardi order entered India at about the same time as the Chishtis. The most well-known saints of the order were Shaikh Shihabuddin Suharwardi and Hamid-ud-Din Nagori. Hence, statement 1 is correct.",
+        "Unlike the Chishtis, the Suharwardi saints did not believe in leading a life of poverty. They accepted the service of the state, and some of them held important posts in the ecclesiastical department. The Chishtis, on the other hand, preferred to keep aloof from state politics and shunned the company of rulers and nobles. However, the order helped the rulers in their own way by creating a climate of opinion in which people belonging to different sects and religions could live in peace and harmony. Hence, statements 2 and 3 are not correct."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Consider the following pairs:\nVedic terms : Meaning in Vedic society\n1. Purcharishnu : A moving fort or war chariot used in battle\n2. Goshu : Refers to search for cows or conflicts over cows\n3. Langala : Refers to the plough used in agriculture\nHow many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "The Vedic Age (c. 1500–600 BCE) marks the period when the Indo-Aryans composed the Vedas, the earliest literary sources of Indian history. It is generally divided into the Early Vedic Period (Rigvedic, c. 1500–1000 BCE) and the Later Vedic Period (c. 1000–600 BCE).",
+        "The early phase, centered in the Punjab and north-west, reflects a semi-nomadic, pastoral society with cattle as the main wealth and simple tribal political structures led by chiefs (rajan). In the later period, settlements expanded eastward into the Ganga-Yamuna plains, agriculture intensified, iron was used, and political authority became more centralized with larger kingdoms emerging. Social stratification hardened into the varna system, rituals became elaborate, and philosophical inquiry began, paving the way for the Upanishadic tradition. The Vedic Age thus laid the cultural, social, and religious foundations of Indian civilization.",
+        "\"Purcharishnu\" refers to a destructive machine, a type of mobile fort, used by the Aryans during the Vedic Age to aid in their expansion and in warfare. It was one of the technological advancements, alongside horse-drawn chariots, bronze and iron weapons, and armor, that contributed to their military success. Hence, pair 1 is correctly matched.",
+        "Goshu : Derived from go (cow). Since cows were the primary unit of wealth, goshu implies wealth, possessions. Whereas, Gaviṣṭi means battle/conflict, especially cattle raid or search for cows, in the Rigvedic context. Hence, pair 2 is not correctly matched.",
+        "Langala : The plough, symbol of settled agriculture, marks the transition from pastoralism to agriculture in the later Vedic period. Hence, pair 3 is correctly matched."
+      ]
+    }
+  ]
+}
