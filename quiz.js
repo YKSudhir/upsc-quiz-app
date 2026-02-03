@@ -2,7 +2,7 @@ let questions = [];
 let index = 0;
 let answers = {};
 
-fetch("data/questions.json")
+fetch("questions.json")
   .then(res => res.json())
   .then(data => {
     document.getElementById("examName").textContent = data.exam;
@@ -86,3 +86,4 @@ document.getElementById("submitBtn").onclick = () => {
   localStorage.setItem("resultsJSON", JSON.stringify({ questions, answers }));
   window.location.href = "dashboard.html";
 };
+
