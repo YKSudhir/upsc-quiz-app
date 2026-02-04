@@ -167,7 +167,7 @@
         "Madhyamaka and Yogacara are Mahayana Buddhist schools, not Jain sub-schools. Hence, statement 3 is not correct."
       ]
     },
-      "id": 10,
+     { "id": 10,
       "question": "With reference to the differences between the Vedic age and the Mahajanpada period, which of the following statements is/are correct?\n1. In Vedic times, exchange was conducted through barter, whereas coins made of metal were used in the Mahajanpada period.\n2. In the Mahajanpada period, voluntary payment was made by the peasants to the king, whereas there is no evidence of this type of collection in Vedic age.\nSelect the correct answer using the code given below.",
       "options": {
         "a": "1 only",
@@ -181,11 +181,7 @@
         "Coins made of metal appear first in the age of Gautama Buddha as punch-marked coins. Hence statement 1 is correct.",
         "Bali, a voluntary payment made by tribesmen to chiefs in Vedic times, became a compulsory payment in the age of the Buddha. Hence statement 2 is not correct."
       ]
-    }
-  ]
-  {
-  "exam": "UPSC CSE Prelims – History & Culture",
-  "questions": [
+    },
     {
       "id": 11,
       "question": "Which among the following Delhi sultan had established a separate government department for the welfare of slaves (Diwan-i-Bandagan) and trained them in handicrafts and employed them in the royal workshops?",
@@ -353,6 +349,5 @@
         "Hence option (b) is the correct answer."
       ]
     }
-  ]
-
+  ] 
 }
