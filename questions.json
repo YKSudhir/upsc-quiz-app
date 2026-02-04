@@ -64,8 +64,14 @@
       "correct_answer": "A",
       "explanation": [
         "The Suhrawardi order, initially founded in Baghdad, gradually expanded its influence across multiple regions of the Islamic world, most notably in Persia (Iran) and the Indian subcontinent.",
-        "The Suhrawardi order is an orthodox Sunni Sufi order, founded in 12th-century Baghdad by Abu al-Najib al-Suhrawardi, a Persian Sufi who died in 1168 CE. The Suharwardi order entered India at about the same time as the Chishtis. The most well-known saints of the order were Shaikh Shihabuddin Suharwardi and Hamid-ud-Din Nagori. Hence, statement 1 is correct.",
-        "Unlike the Chishtis, the Suharwardi saints did not believe in leading a life of poverty. They accepted the service of the state, and some of them held important posts in the ecclesiastical department. The Chishtis, on the other hand, preferred to keep aloof from state politics and shunned the company of rulers and nobles. However, the order helped the rulers in their own way by creating a climate of opinion in which people belonging to different sects and religions could live in peace and harmony. Hence, statements 2 and 3 are not correct."
+        "The Suhrawardi order is an orthodox Sunni Sufi order, founded in 12th-century Baghdad by Abu al-Najib al-Suhrawardi, a Persian Sufi who died in 1168 CE.",
+        "The Suharwardi order entered India at about the same time as the Chishtis.",
+        "The most well-known saints of the order were Shaikh Shihabuddin Suharwardi and Hamid-ud-Din Nagori. Hence, statement 1 is correct.",
+        "Unlike the Chishtis, the Suharwardi saints did not believe in leading a life of poverty.",
+        "They accepted the service of the state, and some of them held important posts in the ecclesiastical department.",
+        "The Chishtis, on the other hand, preferred to keep aloof from state politics and shunned the company of rulers and nobles.",
+        "However, the order helped the rulers in their own way by creating a climate of opinion in which people belonging to different sects and religions could live in peace and harmony.",
+        "Hence, statements 2 and 3 are not correct."
       ]
     },
     {
@@ -79,12 +85,274 @@
       },
       "correct_answer": "B",
       "explanation": [
-        "The Vedic Age (c. 1500–600 BCE) marks the period when the Indo-Aryans composed the Vedas, the earliest literary sources of Indian history. It is generally divided into the Early Vedic Period (Rigvedic, c. 1500–1000 BCE) and the Later Vedic Period (c. 1000–600 BCE).",
+        "The Vedic Age: The Vedic Age (c. 1500–600 BCE) marks the period when the Indo-Aryans composed the Vedas, the earliest literary sources of Indian history. It is generally divided into the Early Vedic Period (Rigvedic, c. 1500–1000 BCE) and the Later Vedic Period (c. 1000–600 BCE).",
         "The early phase, centered in the Punjab and north-west, reflects a semi-nomadic, pastoral society with cattle as the main wealth and simple tribal political structures led by chiefs (rajan). In the later period, settlements expanded eastward into the Ganga-Yamuna plains, agriculture intensified, iron was used, and political authority became more centralized with larger kingdoms emerging. Social stratification hardened into the varna system, rituals became elaborate, and philosophical inquiry began, paving the way for the Upanishadic tradition. The Vedic Age thus laid the cultural, social, and religious foundations of Indian civilization.",
         "\"Purcharishnu\" refers to a destructive machine, a type of mobile fort, used by the Aryans during the Vedic Age to aid in their expansion and in warfare. It was one of the technological advancements, alongside horse-drawn chariots, bronze and iron weapons, and armor, that contributed to their military success. Hence, pair 1 is correctly matched.",
         "Goshu : Derived from go (cow). Since cows were the primary unit of wealth, goshu implies wealth, possessions. Whereas, Gaviṣṭi means battle/conflict, especially cattle raid or search for cows, in the Rigvedic context. Hence, pair 2 is not correctly matched.",
         "Langala : The plough, symbol of settled agriculture, marks the transition from pastoralism to agriculture in the later Vedic period. Hence, pair 3 is correctly matched."
       ]
+    },
+    {
+      "id": 6,
+      "question": "Consider the following architectural structures:\n1. Shivneri fort\n2. Khanderi fort\n3. Rajgad Fort\n4. Kumbhalgarh fort\nHow many of the above are part of the Maratha Military Landscapes of India, a UNESCO World Heritage Site?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "correct_answer": "C",
+      "explanation": [
+        "Context: Maratha Military Landscapes of India inscribed in UNESCO’s World Heritage list.",
+        "Maratha Military Landscapes of India Spanning from the 17th to 19th centuries CE, Maratha Military Landscapes of India is an extraordinary network of twelve forts that demonstrates the strategic military vision and architectural ingenuity of the Maratha Empire.",
+        "Spread across the states of Maharashtra and Tamil Nadu, the selected sites include Salher, Shivneri, Lohgad, Khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg, and Sindhudurg in Maharashtra, along with Gingee Fort in Tamil Nadu. Hence, options 1,2 and 3 are correct.",
+        "Kumbhalgarh, also known as the Great Wall of India, is a fortress located on the western range of the Aravalli Hills in Kumbhalgarh, Rajsamand district, Rajasthan, India. Located approximately 48 km from Rajsamand and 84 km from Udaipur, the fort was constructed in the 15th century by Rana Kumbha. Hence option 4 is not correct."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "With reference to the social structure prevalent in the Sangam age, consider the following statements:\n1. The practice of Sati was prohibited in the Sangam society.\n2. Agricultural operations such as ploughing were mainly confined to the members of the lowest class.\n3. The rich nobles were invested with the title of enadi to demarcate the society.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "C",
+      "explanation": [
+        "The Sangam age refers to that period in the early history of south India when large numbers of poems in Tamil were composed by a number of authors. The term Sangam refers to an assembly or “meeting together” of Tamil poets. Traditionally, three Sangams or assemblies are believed to have been convened one after the other. All the three Sangams took place at different places under the patronage of the Pandya kings of Madura.",
+        "Women in the Sangam period appear to have been educated. This is testified by many poems contributed by women poets to the Sangam literature. Women are also described as engaged in various economic activities such as paddy plantation, cattle rearing, basket-making, spinning, etc.",
+        "However, the cruel practice of Sati was also prevalent in Tamil society, and it was known as tippayadal. But it was not obligatory as there are references to widows present in society. However, their position was miserable as they were prohibited to decorate themselves or participate in any form of amusement. Hence statement 1 is not correct.",
+        "The class of warriors was an important element in society during the Sangam age. Captains of the army were invested with the title of enadi at a formal ceremony. Civil and military officers were held under both the Cholas and the Pandyas by vellalas or rich peasants. The ruling class was called arasar and its members had marriage relations with the vellalas. Hence statement 3 is not correct.",
+        "The rich did not plough land themselves but employed labourers for this purpose. Agricultural operations were generally carried on by the members of the lowest class known as kadaisiyar. Hence statement 2 is correct.",
+        "We notice sharp social inequalities in the Sangam age. The rich lived in houses of brick and mortar and the poor in huts and humbler structures. In the cities, the rich lived in the upper storey of their house."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which among the following works was/were composed by Amir Khusrau?\n1. Tuti Nama\n2. Miftah-ul Futuh\n3. Nuh Siphr\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 only",
+        "d": "3 only"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Amir Khusrau was the Indian born son of a Turkish immigrant. He began his career as a courtier and poet during the reign of Sultan Balban. He became a disciple of Shaikh Nizamuddin Auliya, the famous Sufi saint of the Chisti order.",
+        "He was the court-poet during the reigns of Jalaluddin Khalji and Alauddin Khalji. Later, Sultan Ghiyasuddin Tughluq also patronised him. He lived through the reigns of six Sultans of Delhi and was connected with their courts.",
+        "Amir Khusrau was a prolific and versatile writer and is said to have composed half a million verses and ninety-nine works on different themes. His poetry consisted of a great variety of forms - lyric, ode, epic, and elegy.",
+        "His poetry was essentially Indian in sentiment though he followed Persian models in technique. Thus he created a new style of Persian which came to be known as sabaq-i Hindi or the Indian style.",
+        "Some of the works composed by Amir Khusrau have been lost. Five literary masterpieces composed by him are Mutla-ul Anwar, Shirin Khusrau, Laila Majnun, Ayina-i Sikandari and Hasht Bihisht. He dedicated all of them to Alauddin Khalji.",
+        "His five diwans include Tuhfat-us Sighar, Wast-ul Hayat, Ghurrat-ul Kamal, Baqiya Naqiya and Nihayat-ul Kamal.",
+        "Amir Khusrau also wrote historical masnavis which have great literary and historical value.",
+        "Miftah-ul Futuh deals with the military successes of Sultan Jalaluddin Khalji.",
+        "In Nuh Siphr (The Nine Skies) he gives a poetical description of Sultan Qutbuddin Mubarak Khalji's reign. This work also contains references to contemporary social and religious conditions.",
+        "Note: The first scholar to translate Sanskrit stories into Persian was Zia Nakhshabid. His Tuti Nama is based on a Sanskrit work."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "With reference to the religious history of India, consider the following statements:\n1. Jainism is based on the philosophy of Anekantavada.\n2. Both Buddhism and Jainism reject the authority of the Vedas.\n3. Madhyamaka and Yogacara are sub-schools of Jainism.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correct_answer": "A",
+      "explanation": [
+        "Jainism is built on the concept of Anekantavada, which means \"non-absolutism\" and states that reality is complex, multifaceted, and can only be fully understood from multiple viewpoints.",
+        "Buddhism and Jainism are Sramana traditions and do not accept the Vedas as supreme authority.",
+        "Madhyamaka and Yogacara are Mahayana Buddhist schools, not Jain sub-schools. Hence, statement 3 is not correct."
+      ]
+    },
+      "id": 10,
+      "question": "With reference to the differences between the Vedic age and the Mahajanpada period, which of the following statements is/are correct?\n1. In Vedic times, exchange was conducted through barter, whereas coins made of metal were used in the Mahajanpada period.\n2. In the Mahajanpada period, voluntary payment was made by the peasants to the king, whereas there is no evidence of this type of collection in Vedic age.\nSelect the correct answer using the code given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_answer": "A",
+      "explanation": [
+        "In Vedic times, exchange was conducted through barter, and the mutual gift system served as a mode of exchange. Sometimes cattle served the purpose of currency.",
+        "Coins made of metal appear first in the age of Gautama Buddha as punch-marked coins. Hence statement 1 is correct.",
+        "Bali, a voluntary payment made by tribesmen to chiefs in Vedic times, became a compulsory payment in the age of the Buddha. Hence statement 2 is not correct."
+      ]
     }
   ]
+  {
+  "exam": "UPSC CSE Prelims – History & Culture",
+  "questions": [
+    {
+      "id": 11,
+      "question": "Which among the following Delhi sultan had established a separate government department for the welfare of slaves (Diwan-i-Bandagan) and trained them in handicrafts and employed them in the royal workshops?",
+      "options": {
+        "a": "Muhammad bin Tughlaq",
+        "b": "Firuz Shah Tughlaq",
+        "c": "Alauddin Khalji",
+        "d": "Iltutmish"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Firuz Tughlaq adopted a policy of trying to appease the nobles, the army and the theologians, and of asserting his authority over only such areas which could be easily administrated from the centre.",
+        "To manage his massive number of slaves, Firoz Shah Tughlaq (reigned 1351–1388) created a dedicated department called the Diwan-i-Bandagan.",
+        "Firoz Shah placed many of his slaves in karkhanas (royal workshops or factories), where they were trained to become skilled artisans.",
+        "Hence, option (b) is the correct answer.",
+        "Firuz also took a number of humanitarian measures. He banned inhuman punishments such as cutting of hands, feet, nose, etc., for theft and other offences. He set up hospitals for free treatment of the poor, and ordered the kotwals to make lists of unemployed persons."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Consider the following statements regarding the Astra missile:\n1. It is a Beyond-Visual-Range Air-to-Air Missile (BVRAAM).\n2. It is equipped with an indigenous Radio Frequency (RF) seeker.\n3. It is being inducted into the Indian Air Force.\nWhich of the statements given above are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "1, 2 and 3",
+        "d": "2 and 3 only"
+      },
+      "correct_answer": "C",
+      "explanation": [
+        "Context: DRDO & Indian Air Force successfully conducted the flight-test of ‘Astra’ equipped with indigenous Radio Frequency (RF) Seeker from Su-30 Mk-I platform.",
+        "The ASTRA is an Indian family of Beyond-Visual-Range Air-to-Air Missiles (BVRAAMs) developed by the Defence Research and Development Organisation (DRDO). Hence, statement 1 is correct.",
+        "It features an indigenous Radio Frequency (RF) Seeker for high-accuracy targeting and is designed for all-weather, beyond-visual-range engagements. Hence, statement 2 is correct.",
+        "The ASTRA Mk-I Weapon System integrated with SU-30 MkI aircraft is being inducted into the Indian Air Force (IAF). Hence, statement 3 is correct."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Which among the following inscriptions/edicts contains a detailed description of the Kalinga War and Ashoka’s remorse?",
+      "options": {
+        "a": "Rock Edict X",
+        "b": "Rock Edict XIII",
+        "c": "Sarnath Pillar Edict",
+        "d": "Arthashastra"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Rock Edict XIII is the only edict that explicitly narrates the Kalinga War (c. 261 BCE).",
+        "It records the human cost—about 100,000 killed, 150,000 deported, and many more perished—and Ashoka’s deep remorse, leading to his policy of Dhamma-vijaya (moral conquest) over military conquest.",
+        "Rock Edict X reflects Ashoka’s view that glory and fame are of little value compared to spreading Dhamma; it contains no war details.",
+        "The Sarnath Pillar is famous for the Lion Capital and the Schism Edict concerning Sangha discipline; it doesn’t describe the Kalinga War.",
+        "The Arthashastra is a treatise by Kautilya on polity, economy, and warfare and does not mention Ashoka’s Kalinga War."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Thang-Ta, a traditional martial art, is associated with which Indian state?",
+      "options": {
+        "a": "Manipur",
+        "b": "Kerala",
+        "c": "Punjab",
+        "d": "Rajasthan"
+      },
+      "correct_answer": "A",
+      "explanation": [
+        "Manipur is considered the birthplace of the martial arts tradition known as Thang-Ta.",
+        "The term Thang-Ta is a combination of two words: Thang (means sword) and Ta (means spear).",
+        "In Thang-Ta, the use of swords and spears is customary. Hence, option (a) is correct."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "The Ashta Pradhan council was associated with which ruler?",
+      "options": {
+        "a": "Akbar",
+        "b": "Krishnadevaraya",
+        "c": "Ranjit Singh",
+        "d": "Shivaji"
+      },
+      "correct_answer": "D",
+      "explanation": [
+        "Ashta Pradhan was an administrative and advisory council set up by Shivaji in 1674.",
+        "It was an eight-member council of ministers that assisted Shivaji in state administration.",
+        "Each member had a specific portfolio and was responsible for both civil and military administration.",
+        "Hence, option (d) is the correct answer."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Who among the following authored the Rajatarangini?",
+      "options": {
+        "a": "Bilhana",
+        "b": "Hemachandra",
+        "c": "Kalhana",
+        "d": "Banabhatta"
+      },
+      "correct_answer": "C",
+      "explanation": [
+        "Kalhana’s Rajatarangini is a historical chronicle of the rulers of Kashmir from the earliest times up to the 12th century CE.",
+        "It is a historical poem and a chronicle detailing the history of the Kashmir region from its mythical origins to Kalhana's own time.",
+        "Hence, pair 3 is correctly matched."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "After the Battle of Hydaspes, Alexander founded which of the following cities?",
+      "options": {
+        "a": "Taxila and Pataliputra",
+        "b": "Nicaea and Bucephala",
+        "c": "Ujjain and Indraprastha",
+        "d": "Mathura and Kannauj"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "After the Battle of Hydaspes (326 BCE), Alexander founded two cities: Nicaea (meaning victory) and Bucephala (named after his horse Bucephalus).",
+        "Hence, statement 2 is correct."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "In Gupta inscriptions, the terms Uparikara and Udranga refer to:",
+      "options": {
+        "a": "Military ranks",
+        "b": "Agricultural taxes",
+        "c": "Religious offerings",
+        "d": "Trade guilds"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "In Gupta inscriptions, Uparikara and Udranga are terms related to agricultural taxes.",
+        "Uparikara refers to an additional tax or levy related to agricultural produce.",
+        "Udranga refers to a type of tax or tribute that was also linked to agricultural yields or land.",
+        "Hence, option (b) is the correct answer."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "In order to encourage trade and commerce, which among the following reforms were taken up by Sher Shah Suri?\n1. Collection of taxes allowed only at point of entry and point of sale.\n2. Standardization of metal content of gold and silver coins.\n3. Large network of sarais on the highways.\nWhich of the statements given above is/are correct?",
+      "options": {
+        "a": "3 only",
+        "b": "1, 2 and 3",
+        "c": "2 and 3 only",
+        "d": "1 and 3 only"
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Sher Shah allowed customs duty to be paid only at two places: at the point of entry and at the time of sale of goods. Hence, statement 1 is correct.",
+        "He struck fine coins of gold, silver and copper of uniform standard in place of earlier debased coins. Hence, statement 2 is correct.",
+        "Sher Shah built a sarai at a distance of every two kos on major roads and constructed about 1700 sarais in total. Hence, statement 3 is correct."
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Which of the following statements best describes the term ‘Gas Flaring', recently seen in the news?",
+      "options": {
+        "a": "The process of compressing natural gas for transportation in pipelines.",
+        "b": "The controlled burning of natural gas released during oil extraction.",
+        "c": "The release of unburned methane directly into the atmosphere.",
+        "d": "The conversion of natural gas into hydrogen through steam reforming."
+      },
+      "correct_answer": "B",
+      "explanation": [
+        "Gas flaring is the burning of the natural gas associated with oil extraction.",
+        "The practice persists due to market and economic constraints, lack of infrastructure to capture the gas, or absence of effective regulations.",
+        "Flaring wastes a valuable natural resource and contributes heavily to CO₂ emissions.",
+        "Hence option (b) is the correct answer."
+      ]
+    }
+  ]
+
 }
